@@ -5,7 +5,8 @@
 Just press the shortcuts and you're done.
 
 ## How it works:
-- The script intercept the files selected with the keyboard or mouse. When you press the Hotkeys it executes the `SuperAdminLauncher` task, wich runs the selected files with elevated privileges. No Uac prompts.
+- The script intercept the files selected with the keyboard or mouse.
+- When you press the Hotkeys it executes the `SuperAdminLauncher` task, wich runs the selected files with elevated privileges. No Uac prompts.
 - You can choose multiple files at once pressing `ctrl`.
 - Default Hokeys:
   - `Win`+`ALT`+`left mouseclick`
