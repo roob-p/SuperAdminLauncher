@@ -9,7 +9,7 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 - When you press the hotkeys, it triggers the `SuperAdminLauncher` task, which runs `Launcher.exe` with admin rights. This program will execute the selected files with elevated privileges. No UAC prompts.
 - Select multiple files at once by holding `ctrl`.
 - Default hotkeys:
-  - `Win`+`Alt`+`left mouseclick`
+  - `Win`+`Alt`+`Left mouseclick`
   - `Win`+`Alt`+`r` 
 - You can change the hotkeys in `config.ini`. Avoid keys like `ctrl` (already used by windows for multiple selections) and `shift` (also used for file selections).
  You can find the hexadecimal values for the keys here: [Values Table.md](./Values%20Table.md) or https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
