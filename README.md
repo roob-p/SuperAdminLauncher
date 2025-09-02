@@ -16,7 +16,7 @@ Just press the shortcuts and you're done.
 - `Super Admin Launcher Resident` is the tray-resident script.
 - `Super Admin Launcher Container` it's meant to execute the programs just by drag them to it. You can find it on desktop.
 - You can also use `Super Admin Launcher` by a `(non admin) command prompt`:
-  - Type `sal <filename>` (absolute path is resolved automatically). You can also drag it to the command prompt.
+  - Type `sal <filename>` (absolute path is resolved automatically).
   - Or drag & drop a file into the Command Prompt after typing `sal`
 
 
