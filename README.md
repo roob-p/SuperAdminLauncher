@@ -17,7 +17,7 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 - `Super Admin Launcher Container` allows you to launch programs by dragging and dropping files onto it. You can find it on desktop.
 - You can also use `Super Admin Launcher` by a `(non admin) command prompt`:
   - Type `sal <filename>` (absolute path is resolved automatically).
-  - Or drag & drop a file into the Command Prompt after typing `sal`
+  - Or drag & drop a file into the `command prompt` after typing `sal`
 
 If you enjoy this utility, you can buy me a coffee. It will be appreciated. 
 
