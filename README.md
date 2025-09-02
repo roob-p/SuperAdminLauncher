@@ -23,4 +23,4 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 
 
 ## ⚠️ Warning
-This utility is very simple but powerful. It bypass the UAC prompts, so only run files you trust and avoid using on downloaded files without verifying them. Misuse can compromise your system. Use responsibly.
+This utility is very simple but powerful. It bypasses the UAC prompts, so only run files you trust and avoid using on downloaded files without verifying them. Misuse can compromise your system. Use responsibly.
