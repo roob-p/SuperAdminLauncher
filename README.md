@@ -8,11 +8,11 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 - The script intercepts the files you select with the keyboard or mouse.
 - When you press the hotkeys, it triggers the `SuperAdminLauncher` task, which runs `Launcher.exe` with admin rights. This program will execute the selected files with elevated privileges. No UAC prompts.
 - Select multiple files at once by holding `ctrl`.
-- Default hokeys:
+- Default hotkeys:
   - `Win`+`ALT`+`left mouseclick`
   - `Win`+`ALT`+`r` 
 - You can change the hotkeys in `config.ini`. Avoid keys like `ctrl` (already used by windows for multiple selections) and `shift` (also used for file selections).
- You can find the hexadecimal values for the keys here: [Values Table.md ](./Values%20Table.md) or https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+ You can find the hexadecimal values for the keys here: [Values Table.md](./Values%20Table.md) or https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 - `Super Admin Launcher Resident` is the tray-resident script.
 - `Super Admin Launcher Container` allows you to launch programs by dragging and dropping files onto it. You can find it on desktop.
 - You can also use `Super Admin Launcher` by a `(non admin) command prompt`:
