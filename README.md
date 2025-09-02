@@ -1,8 +1,8 @@
 # 🚀 Super Admin Launcher - (SAL)
 *Launch anything. No UAC prompts.*
 
-✨ This utility lets you launch any programs without triggering any UAC prompts.
-Simply press the hotkeys and you're done.
+✨ This utility lets you launch any programs with elevated privileges without triggering any UAC prompts.
+Simply select your files, press the hotkeys, and they run as admin automatically.
 
 ## How it works:
 - The script intercepts the files you select with the keyboard or mouse.
@@ -23,4 +23,4 @@ Simply press the hotkeys and you're done.
 
 
 ## ⚠️ Warning
-This utility is very simple but powerful. Only run files you trust. Misuse can compromise your system.
+This utility is simple but powerful. It bypass the UAC prompts, so only run files you trust and avoid using on downloaded files without verifying them. Misuse can compromise your system. Use responsibly.
