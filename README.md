@@ -1,4 +1,4 @@
-# 🚀 Super Admin Launcher
+# 🚀 Super Admin Launcher - (SAL)
 *Launch anything. No UAC prompts.*
 
 ✨ This utility lets you launch any programs without triggering any UAC prompts.
