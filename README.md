@@ -19,6 +19,10 @@ Simply select your files, press the hotkeys, and they run as admin automatically
   - Type `sal <filename>` (absolute path is resolved automatically).
   - Or drag & drop a file into the Command Prompt after typing `sal`
 
+If you enjoy this utility, you can buy me a coffee. It will be appreciated ;)  ☕
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roobp)  
+
 
 
 
