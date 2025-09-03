@@ -33,3 +33,23 @@ This utility is very simple but powerful. It bypasses the UAC prompts, so only r
 
 ### 🎖️ Credits
 This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles()` functions from `FileExplorer and Desktop` au3 files of **LarsJ** (https://www.autoitscript.com/forum/topic/203313-automating-filewindows-explorer-and-desktop) to determine which files are selected.
+
+
+<table style="width: 100%; text-align: left;">
+  <tr>
+    <td style="padding: 0; vertical-align: top;">
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/1.gif" style="width: 100%; height: auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0; vertical-align: top;">
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/2.gif" style="width: 100%; height: auto;" />
+    </td>
+  </tr>
+   <tr>
+    <td style="padding: 0; vertical-align: top;">
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/3.gif" style="width: 100%; height: auto;" />
+         </td>
+  </tr>
+</table>
+
