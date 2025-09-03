@@ -39,17 +39,17 @@ This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles(
 <table style="width: 100%; text-align: left;">
   <tr>
     <td style="padding: 0; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/1.gif" style="width: 100%; height: auto;" />
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal 1.gif" style="width: 100%; height: auto;" />
     </td>
   </tr>
   <tr>
     <td style="padding: 0; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/2.gif" style="width: 100%; height: auto;" />
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal 2.gif" style="width: 100%; height: auto;" />
     </td>
   </tr>
    <tr>
     <td style="padding: 0; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/3.gif" style="width: 100%; height: auto;" />
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal 3.gif" style="width: 100%; height: auto;" />
          </td>
   </tr>
 </table>
