@@ -28,3 +28,8 @@ If you enjoy this utility, you can buy me a coffee. It will be appreciated.
 
 ## ⚠️ Warning
 This utility is very simple but powerful. It bypasses the UAC prompts, so only run files you trust and avoid using on downloaded files without verifying them. Misuse can compromise your system. Use responsibly.
+
+<br>
+
+### 🎖️ Credits
+This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles()` functions from `FileExplorer and Desktop` files of LarsJ (https://www.autoitscript.com/forum/topic/203313-automating-filewindows-explorer-and-desktop/#comment-1545686) to determine which files are selected.
