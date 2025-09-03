@@ -34,6 +34,7 @@ This utility is very simple but powerful. It bypasses the UAC prompts, so only r
 ### 🎖️ Credits
 This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles()` functions from `FileExplorer and Desktop` au3 files of **LarsJ** (https://www.autoitscript.com/forum/topic/203313-automating-filewindows-explorer-and-desktop) to determine which files are selected.
 
+<br>
 
 <table style="width: 100%; text-align: left;">
   <tr>
