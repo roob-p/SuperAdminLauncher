@@ -1,3 +1,4 @@
 docs/ export-ignore
 .github/workflows export-ignore
 media/ export-ignore
+.gitattributes export-ignore
