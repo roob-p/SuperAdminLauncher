@@ -12,7 +12,7 @@ Simply select your files, press the hotkeys, and they run as admin automatically
   - `Win`+`Alt`+`Left Mouseclick`
   - `Win`+`Alt`+`r` 
 - You can change the hotkeys in `config.ini`. Avoid keys like `ctrl` (already used by windows for multiple selections) and `shift` (also used for file selections).
- You can find the hexadecimal values for the keys here: [Values Table.md](./Values%20Table.md) or https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+ You can find the hexadecimal values for the keys here: [Values Table.md](./Values%20Table.md) or [Microsoft Virtaul Key Codes](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
 - `Super Admin Launcher Resident` is the tray-resident script.
 - `Super Admin Launcher Container` allows you to launch programs by dragging and dropping files onto it. You can find it on desktop.
 - You can also use `Super Admin Launcher` by a `(non admin) command prompt`:
@@ -32,7 +32,7 @@ This utility is very simple but powerful. It bypasses the UAC prompts, so only r
 <br>
 
 ### 🎖️ Credits
-This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles()` functions from `FileExplorer and Desktop` au3 files of **LarsJ** (https://www.autoitscript.com/forum/topic/203313-automating-filewindows-explorer-and-desktop) to determine which files are selected.
+This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles()` functions from `FileExplorer and Desktop` au3 files of **LarsJ** [https://www.autoitscript.com/forum/topic/203313-automating-filewindows-explorer-and-desktop](https://www.autoitscript.com/forum/topic/203313-automating-filewindows-explorer-and-desktop) to determine which files are selected.
 
 <br>
 
