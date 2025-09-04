@@ -9,7 +9,7 @@
 #AutoIt3Wrapper_Res_LegalTradeMarks=roob-p (author)
 #AutoIt3Wrapper_Res_Language=1040
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
-#include "Includes\FileExplorer.au3"
+#include "Include\FileExplorer.au3"
 #include <Array.au3>
 #include <Misc.au3>
 #include <File.au3>
@@ -95,6 +95,7 @@ Else
     ;ConsoleWrite("Nessun file selezionato" & @CRLF)
 	;TraySetToolTip("No selected files")
 EndIf
+
 
 
 EndFunc
