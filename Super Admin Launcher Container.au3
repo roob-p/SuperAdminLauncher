@@ -21,4 +21,3 @@ _FileCreate ($temp)
 	FileClose($temp)
 
 	shellexecute("c:\windows\system32\schtasks", '/run /tn "SuperAdminLauncher"')
-
