@@ -36,21 +36,21 @@ This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles(
 
 <br>
 
-<table style="width: 100%; text-align: left;">
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td style="padding: 0; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal 1.gif" style="width: 80%; height: auto;" />
+    <td style="padding: 5px; vertical-align: top;">
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal%201.gif" style="width: 300px; height: auto;" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 0; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal 2.gif" style="width: 80%; height: auto;" />
+    <td style="padding: 5px; vertical-align: top;">
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal%202.gif" style="width: 300px; height: auto;" />
     </td>
   </tr>
-   <tr>
-    <td style="padding: 0; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal 3.gif" style="width: 80%; height: auto;" />
-         </td>
+  <tr>
+    <td style="padding: 5px; vertical-align: top;">
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal%203.gif" style="width: 300px; height: auto;" />
+    </td>
   </tr>
 </table>
 
