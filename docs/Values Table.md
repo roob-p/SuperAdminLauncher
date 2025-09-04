@@ -33,7 +33,7 @@
 | 73    | F4                  |   | 74    | F5         |   | 75    | F6           |
 | 76    | F7                  |   | 77    | F8         |   | 78    | F9           |
 | 79    | F10                 |   | 7A    | F11        |   | 7B    | F12          |
-| 7C–7F | F13–F16            |   | 80–87 | F17–F24    |   | 90    | NUM LOCK     |
+| 7C–7F | F13–F16             |   | 80–87 | F17–F24    |   | 90    | NUM LOCK     |
 | 91    | SCROLL LOCK         |   | A0    | Left SHIFT |   | A1    | Right SHIFT  |
 | A2    | Left CTRL           |   | A3    | Right CTRL |   | A4    | Left ALT     |
 | A5    | Right ALT           |   | BA    | ;          |   | BB    | =            |
