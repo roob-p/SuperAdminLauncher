@@ -6,11 +6,9 @@ $PathList = $CurrentPath -split ';' | ForEach-Object { $_.Trim() } | Where-Objec
 
 if ($PathList -notcontains $NewPath) {
     if ([string]::IsNullOrEmpty($CurrentPath)) {
-        # Se PATH era vuoto, aggiungi solo il nuovo con un ; finale
         $UpdatedPath = "$NewPath;"
     }
     else {
-        # Se PATH ha già valori, aggiungi con ; in fondo
         $UpdatedPath = "$CurrentPath$NewPath;"
     }
 
@@ -21,3 +19,4 @@ if ($PathList -notcontains $NewPath) {
 else {
     Write-Host "'$NewPath' is already present in User PATH."
 }
+
