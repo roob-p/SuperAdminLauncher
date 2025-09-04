@@ -1,6 +1,5 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=..\icon.ico
-#AutoIt3Wrapper_UseX64=n
 #AutoIt3Wrapper_Res_Description=Super Admin Launcher - SAL (PATH Container)
 #AutoIt3Wrapper_Res_Fileversion=1.0.1.0
 #AutoIt3Wrapper_Res_ProductName=Super Admin Launcher
@@ -27,5 +26,6 @@ Next
 	FileOpen($temp,2)
 	_FileWriteFromArray($temp,$cmdline,1)
 	FileClose($temp)
+
 
 	shellexecute("c:\windows\system32\schtasks", '/run /tn "SuperAdminLauncher"')
