@@ -39,7 +39,7 @@ This utility uses the `GetIShellBrowser()`, `GetShellInterfaces()`and `GetFiles(
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 5px; vertical-align: top;">
-      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal%201a.gif" style="width: 600px; height: auto;" />
+      <img src="https://github.com/roob-p/SuperAdminLauncher/blob/main/media/sal%201b.gif" style="width: 600px; height: auto;" />
     </td>
   </tr>
   <tr>
