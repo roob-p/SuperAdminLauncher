@@ -10,7 +10,7 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 - Select multiple files at once by holding `ctrl`.
 - Default hotkeys:
   - `Win`+`Alt`+`Left Mouseclick`
-  - `Win`+`Alt`+`r` 
+  - `Win`+`Alt`+`R` 
 - You can change the hotkeys in `config.ini`. Avoid keys like `ctrl` (already used by windows for multiple selections) and `shift` (also used for file selections).
  You can find the hexadecimal values for the keys here: [Values Table](./Values%20Table.md) or https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 - `Super Admin Launcher Resident` is the tray-resident script.
