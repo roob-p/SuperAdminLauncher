@@ -27,7 +27,7 @@ If you enjoy this utility, you can buy me a coffee. It will be appreciated.
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roobp)  
 
 
-- Github repo 🐙: [roob-p/SuperAdminLauncher](https://github.com/roob-p/SuperAdminLauncher)
+- Github repo: 🐙 [roob-p/SuperAdminLauncher](https://github.com/roob-p/SuperAdminLauncher)
 - Download last version:
   [v1.0.1_x64](https://github.com/roob-p/SuperAdminLauncher/releases/download/v1.0.1/SuperAdminLauncher.Installer_x64.exe)
   [v1.0.1_x86](https://github.com/roob-p/SuperAdminLauncher/releases/download/v1.0.1/SuperAdminLauncher.Installer_x86.exe)
