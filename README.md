@@ -1,5 +1,6 @@
 # 🚀 Super Admin Launcher (SAL) 
 <!--![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/SuperAdminLauncher/total)-->
+![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/SuperAdminLauncher/total)  
 *Launch anything. No UAC prompts.*
 
 ✨ This utility lets you launch any programs with elevated privileges without triggering any UAC prompts.
