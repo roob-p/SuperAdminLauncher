@@ -1,6 +1,6 @@
-# 🚀 Super Admin Launcher (SAL) 
-<!--![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/SuperAdminLauncher/total)-->
-![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/SuperAdminLauncher/total)  
+# 🚀 Elevated Launcher
+<!--![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/ElevatedLauncher/total)-->
+![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/ElevatedLauncher/total)  
 *Launch anything. No UAC prompts.*
 
 ✨ This utility lets you launch any programs with elevated privileges without triggering any UAC prompts.
@@ -15,11 +15,11 @@ Simply select your files, press the hotkeys, and they run as admin automatically
   - `Win`+`Alt`+`R` 
 - You can change the hotkeys in `config.ini`. Avoid keys like `ctrl` *(already used by windows for multiple selections)* and `shift` *(also used for file selections).*
  You can find the hexadecimal values for the keys here: [Values Table](./Values%20Table.md) or https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
-- `Super Admin Launcher Resident` is the tray-resident script.
-- `Super Admin Launcher Container` allows you to launch programs by dragging and dropping files onto it. You can find it on desktop.
-- You can also use `Super Admin Launcher` by a `(non admin) command prompt`:
-  - Type `sal <filename>` (absolute path is resolved automatically).
-  - Or drag & drop a file into the `command prompt` after typing `sal`
+- `Elevated Launcher Resident` is the tray-resident script.
+- `Elevated Launcher Container` allows you to launch programs by dragging and dropping files onto it. You can find it on desktop.
+- You can also use `Elevated Launcher` by a `(non admin) command prompt`:
+  - Type `elev <filename>` (absolute path is resolved automatically).
+  - Or drag & drop a file into the `command prompt` after typing `elev`
 
 If you enjoy this utility, you can buy me a coffee. It will be appreciated. 
 
