@@ -8,7 +8,7 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 
 ## How it works:
 - The script intercepts the files you select with the keyboard or mouse.
-- When you press the hotkeys, it triggers the `SuperAdminLauncher` task, which runs `Launcher.exe` with admin rights. This program will execute the selected files with elevated privileges. No UAC prompts.
+- When you press the hotkeys, it triggers the `Elevated Launcher` task, which runs `Launcher.exe` with admin rights. This program will execute the selected files with elevated privileges. No UAC prompts.
 - Select multiple files at once by holding `ctrl`.
 - Default hotkeys:
   - `Win`+`Alt`+`Left Mouseclick`
