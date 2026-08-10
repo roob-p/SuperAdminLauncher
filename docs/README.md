@@ -1,7 +1,7 @@
 <!--[🔙 Back](https://roob-p.github.io)-->  
 <!--[![🔙 Back](https://img.shields.io/badge/🔙-Back-blue)](https://roob-p.github.io)-->
 [![🔙 Back](https://img.shields.io/badge/🔙-Back-white?style=flat-square&logoColor=blue&color=blue)](https://roob-p.github.io)
-# 🚀 Elevated Launcher (SAL)
+# 🚀 Elevated Launcher
 *Launch anything. No UAC prompts.*
 
 ✨ This utility lets you launch any programs with elevated privileges without triggering any UAC prompts.
