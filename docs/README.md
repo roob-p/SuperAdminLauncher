@@ -19,8 +19,8 @@ Simply select your files, press the hotkeys, and they run as admin automatically
 - `Elevated Launcher Resident` is the tray-resident script.
 - `Elevated Launcher Container` allows you to launch programs by dragging and dropping files onto it. You can find it on desktop.
 - You can also use `Elevated Launcher` by a `(non admin) command prompt`:
-  - Type `sal <filename>` (absolute path is resolved automatically).
-  - Or drag & drop a file into the `command prompt` after typing `sal`
+  - Type `elev <filename>` (absolute path is resolved automatically).
+  - Or drag & drop a file into the `command prompt` after typing `elev`
 
 If you enjoy this utility, you can buy me a coffee. It will be appreciated. 
 
